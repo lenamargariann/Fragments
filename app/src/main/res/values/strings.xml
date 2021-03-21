@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tap_to_add_fragment">Tap to add fragment !</string>
+    <string name="tap_to_replace_fragment">Tap to replace fragment !</string>
+    <string name="hello_first_fragment">Hello First fragment !</string>
+    <string name="tap_to_remove_fragment">Tap to remove fragment !</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="hello_second_fragment">Hello Second fragment !</string>
+</resources>
